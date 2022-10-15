@@ -1,0 +1,9 @@
+.card.p-3.d-flex.flex-row.justify-content-around {
+    background: #e7e7e7;
+    border: none;
+        box-shadow: 1em 0rem 5em 1em #dddddd!important;
+}
+nav{
+
+   z-index: 100; 
+}
